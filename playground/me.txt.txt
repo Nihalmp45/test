@@ -1,5 +1,0 @@
-{{#user}
-Name: Nihal Abdul Khader MP
-Skills: HTML, CSS,JavaScript,TypeScript React JS,Zustand,Styled Components,Redux,Python,Can adapt to any css libraries like Bootstrap,Tailwind etc... 
-Email: nihalmp45@gmail.com
-{{/user}}
